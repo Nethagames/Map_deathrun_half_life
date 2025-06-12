@@ -14,4 +14,5 @@ Developed by : Nethagames
 To add this mod to your game : 
 1. download the zip
 2. unzip it
-3. place the folder into the C:\Program Files (x86)\Steam\steamapps\common\Half-Life\, aside of the valve folder
+3. place the folder into the C:\Program Files (x86)\Steam\steamapps\common\Half-Life\,
+   aside of the valve folder
