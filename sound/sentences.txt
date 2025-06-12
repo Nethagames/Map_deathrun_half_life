@@ -1,0 +1,150 @@
+// HEV Suit
+
+// powerup
+
+HEV_AAx vox/null.wav
+HEV_A0 vox/null.wav
+
+HEV_A1 vox/null.wav
+HEV_A2 vox/null.wav
+HEV_A3 vox/null.wav
+HEV_A4 vox/null.wav
+HEV_A5 vox/null.wav
+HEV_A6 vox/null.wav
+HEV_A7 vox/null.wav
+HEV_A8 vox/null.wav
+HEV_A9 vox/null.wav
+HEV_A10 vox/null.wav
+
+// medical
+HEV_DEAD0 vox/null.wav
+HEV_DEAD1 vox/null.wav
+
+HEV_MED0 vox/null.wav
+HEV_MED1 vox/null.wav
+HEV_MED2 vox/null.wav
+
+HEV_HEAL0 vox/null.wav
+HEV_HEAL1 vox/null.wav
+HEV_HEAL2 vox/null.wav
+HEV_HEAL3 vox/null.wav
+HEV_HEAL4 vox/null.wav
+HEV_HEAL5 vox/null.wav
+HEV_HEAL6 vox/null.wav
+HEV_HEAL7 vox/null.wav
+HEV_HEAL8 vox/null.wav
+
+HEV_DMG0 vox/null.wav
+HEV_DMG1 vox/null.wav
+HEV_DMG2 vox/null.wav
+HEV_DMG3 vox/null.wav
+HEV_DMG4 vox/null.wav
+HEV_DMG5 vox/null.wav
+HEV_DMG6 vox/null.wav
+HEV_DMG7 vox/null.wav
+
+HEV_HLTH0 vox/null.wav
+HEV_HLTH1 vox/null.wav
+HEV_HLTH2 vox/null.wav
+HEV_HLTH3 vox/null.wav
+HEV_HLTH4 vox/null.wav
+HEV_HLTH5 vox/null.wav
+HEV_HLTH6 vox/null.wav
+
+HEV_SHOCK vox/null.wav
+HEV_FIRE vox/null.wav
+
+// items
+HEV_AIM_ON vox/null.wav
+HEV_AIM_OFF vox/null.wav
+HEV_BATTERY vox/null.wav
+HEV_MEDKIT vox/null.wav
+
+HEV_PISTOL vox/null.wav
+HEV_SHOTGUN vox/null.wav
+HEV_GRENADE vox/null.wav
+HEV_ASSAULT vox/null.wav
+HEV_44PISTOL vox/null.wav
+HEV_RPG vox/null.wav
+HEV_SATCHEL vox/null.wav
+HEV_TRIPMINE vox/null.wav
+HEV_HORNET vox/null.wav
+HEV_SQUEEK vox/null.wav
+HEV_EGON vox/null.wav
+HEV_GAUSS vox/null.wav
+HEV_XBOW vox/null.wav
+
+HEV_9MM vox/null.wav
+HEV_44AMMO vox/null.wav
+HEV_BUCKSHOT vox/null.wav
+HEV_BOLTS vox/null.wav
+HEV_RPGAMMO vox/null.wav
+HEV_AGRENADE vox/null.wav
+HEV_EGONPOWER vox/null.wav
+
+// time
+
+//HEV_C1t vox/null.wav
+//HEV_C13t vox/null.wav
+
+// power levels
+
+HEV_D00 vox/null.wav
+HEV_D01 vox/null.wav
+
+HEV_0P vox/null.wav
+HEV_1P vox/null.wav
+HEV_2P vox/null.wav
+HEV_3P vox/null.wav
+HEV_4P vox/null.wav
+HEV_5P vox/null.wav
+HEV_6P vox/null.wav
+HEV_7P vox/null.wav
+HEV_8P vox/null.wav
+HEV_9P vox/null.wav
+HEV_10P vox/null.wav
+HEV_11P vox/null.wav
+HEV_12P vox/null.wav
+HEV_13P vox/null.wav
+HEV_14P vox/null.wav
+HEV_15P vox/null.wav
+HEV_16P vox/null.wav
+HEV_17P vox/null.wav
+HEV_18P vox/null.wav
+HEV_19P vox/null.wav
+
+// weapon/ammo
+
+HEV_AMO0 vox/null.wav
+
+// suit
+
+HEV_V0 vox/null.wav
+HEV_V1 vox/null.wav
+
+HEV_E0 vox/null.wav
+HEV_E1 vox/null.wav
+HEV_E2 vox/null.wav
+HEV_E3 vox/null.wav
+HEV_E4 vox/null.wav
+HEV_E5 vox/null.wav
+
+// time remaining countdown
+
+//HEV_F10t vox/null.wav
+//HEV_F15t vox/null.wav
+//HEV_F20t vox/null.wav
+//HEV_F30t vox/null.wav
+
+// detections
+
+HEV_DET0 vox/null.wav
+HEV_DET1 vox/null.wav
+HEV_DET2 vox/null.wav
+HEV_DET3 vox/null.wav
+HEV_DET4 vox/null.wav
+HEV_DET5 vox/null.wav
+
+//HEV_GR0r vox/null.wav
+//HEV_GR1r vox/null.wav
+//HEV_GR2r vox/null.wav

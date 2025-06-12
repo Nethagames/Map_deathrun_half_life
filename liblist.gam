@@ -1,0 +1,16 @@
+game "Deathrun Parcours"
+gamedir "deathrun"
+startmap "ma_map"
+trainmap "ma_map"
+type "singleplayer_only"
+
+dll_path "dlls"
+server_dll "hl.dll"
+client_dll "client.dll"
+gamedll "dlls\hl.dll"
+gamedll_linux "dlls/hl.so"
+gamedll_osx "dlls/hl.dylib"
+
+
+nohimodel "1"
+mpentity "info_player_start"
